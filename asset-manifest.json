@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WordCounterClone/static/css/main.60407fc5.chunk.css",
+    "main.js": "/WordCounterClone/static/js/main.fc0c97bc.chunk.js",
+    "main.js.map": "/WordCounterClone/static/js/main.fc0c97bc.chunk.js.map",
+    "runtime-main.js": "/WordCounterClone/static/js/runtime-main.a4becede.js",
+    "runtime-main.js.map": "/WordCounterClone/static/js/runtime-main.a4becede.js.map",
+    "static/js/2.b6d00374.chunk.js": "/WordCounterClone/static/js/2.b6d00374.chunk.js",
+    "static/js/2.b6d00374.chunk.js.map": "/WordCounterClone/static/js/2.b6d00374.chunk.js.map",
+    "static/js/3.425db54f.chunk.js": "/WordCounterClone/static/js/3.425db54f.chunk.js",
+    "static/js/3.425db54f.chunk.js.map": "/WordCounterClone/static/js/3.425db54f.chunk.js.map",
+    "index.html": "/WordCounterClone/index.html",
+    "static/css/main.60407fc5.chunk.css.map": "/WordCounterClone/static/css/main.60407fc5.chunk.css.map",
+    "static/js/2.b6d00374.chunk.js.LICENSE.txt": "/WordCounterClone/static/js/2.b6d00374.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4becede.js",
+    "static/js/2.b6d00374.chunk.js",
+    "static/css/main.60407fc5.chunk.css",
+    "static/js/main.fc0c97bc.chunk.js"
+  ]
+}
